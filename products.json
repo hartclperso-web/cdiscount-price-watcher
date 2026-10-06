@@ -1,17 +1,47 @@
 [
   {
-    "nom": "JCC Pokémon - Bundle 6 Boosters 30e Anniversaire",
+    "nom": "[Cdiscount] Bundle 6 Boosters 30e Anniversaire",
     "url": "https://www.cdiscount.com/juniors/jeux-de-societe-cartes/jcc-pokemon-bundle-6-boosters-30e-anniversaire/f-120791604-pok196214145221.html",
     "seuil": 50
   },
   {
-    "nom": "Pokémon - Mini Tin 30e Anniversaire (10 visuels)",
+    "nom": "[Cdiscount] Mini Tin 30e Anniversaire",
     "url": "https://www.cdiscount.com/juniors/jeux-de-societe-cartes/pokemon-30eme-anniversaire-mini-tin-10-visuel/f-120791604-pok196214146297.html?idOffre=4341143415",
     "seuil": 15
   },
   {
-    "nom": "Pokémon - ETB Coffret Dresseur d'Elite 30e Anniversaire",
+    "nom": "[Cdiscount] ETB Coffret Dresseur d'Elite 30e Anniversaire",
     "url": "https://www.cdiscount.com/juniors/jeux-de-societe-cartes/pokemon-etb-coffret-dresseur-d-elite-30e-anniv/f-120791604-pok196214144835.html?idOffre=-1",
+    "seuil": 70
+  },
+  {
+    "nom": "[Smyths] Bundle 6 Boosters 30e Anniversaire",
+    "url": "https://www.smythstoys.com/fr/fr-fr/marques/pokemon/pokemon-bundle-6-boosters-30eme-anniversaire/p/261769",
+    "seuil": 50
+  },
+  {
+    "nom": "[Smyths] Mini Tin Q3 30e Anniversaire",
+    "url": "https://www.smythstoys.com/fr/fr-fr/jouets/jeux-de-societe-et-puzzles/cartes-a-collectionner/cartes-pokemon/pokemon-mini-tin-q3-30e-anniversaire-modele-aleatoire/p/261815",
+    "seuil": 15
+  },
+  {
+    "nom": "[Smyths] ETB Coffret Dresseur d'Elite 30e Anniversaire",
+    "url": "https://www.smythstoys.com/fr/fr-fr/jouets/jeux-de-societe-et-puzzles/cartes-a-collectionner/cartes-pokemon/pokemon-coffret-dresseur-delite-30eme-anniversaire/p/261821",
+    "seuil": 70
+  },
+  {
+    "nom": "[JouéClub] Bundle 6 Boosters 30e Anniversaire",
+    "url": "https://www.joueclub.fr/pokemon/pokemon-bundle-6-boosters-0196214145221.html",
+    "seuil": 50
+  },
+  {
+    "nom": "[JouéClub] Mini Tin 30e Anniversaire",
+    "url": "https://www.joueclub.fr/pokemon/pokemon-30eme-anniversaire-mini-tin-0196214146297.html",
+    "seuil": 15
+  },
+  {
+    "nom": "[JouéClub] ETB Coffret Dresseur d'Elite 30e Anniversaire",
+    "url": "https://www.joueclub.fr/pokemon/pokemon-30eme-anniversaire-coffret-dresseur-d-elite-0196214144835.html",
     "seuil": 70
   }
 ]
